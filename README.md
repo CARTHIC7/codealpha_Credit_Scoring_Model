@@ -3,15 +3,15 @@
 🔍 Objective
 The goal is to:
 
-Build a credit classification model that predicts loan default risk (good/bad credit)
+--> Build a credit classification model that predicts loan default risk (good/bad credit)
 
 Use machine learning algorithms such as:
 
-Logistic Regression
+--> Logistic Regression
 
-Decision Trees
+--> Decision Trees
 
-Random Forest
+--> Random Forest
 
 Evaluate performance using industry-standard metrics
 
